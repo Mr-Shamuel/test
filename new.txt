@@ -1,9 +1,8 @@
-<<<<<<< HEAD
+ 
 shamuel 
 molla
 shawon
-=======
+ 
 rashida 
 sultana
-rishas
->>>>>>> master
+ pisu
