@@ -1,8 +1,2 @@
 hi rishas
-<<<<<<< HEAD
-
 do you know sam? 
- 
-=======
-i am 
->>>>>>> master
